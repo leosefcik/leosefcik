@@ -2,7 +2,7 @@
 - 👀 I’m interested in chicken
 - 🌱 I’m currently learning ok
 - 💞️ I’m looking to collaborate on whatsapp
-- 📫 How to reach me r
+- 📫 How to reach me leosefcik#3401
 
 <!---
 leosefcik/leosefcik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
