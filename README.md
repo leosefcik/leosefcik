@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ok
 - 💞️ I’m looking to collaborate on whatsapp
 - 📫 How to reach me leosefcik#3401
-
-<!---
-leosefcik/leosefcik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🕋 I do not use WhatsApp
+- 
+[![My Skills](https://skillicons.dev/icons?i=bsd,bsd,bsd,bsd)](https://skillicons.dev)
+hehe čertisko
