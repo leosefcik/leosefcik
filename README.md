@@ -6,6 +6,19 @@
 - 🕋 I do not use WhatsApp
 - 🦼 Game development and other funnies
 - 
+- ⬅ https://linktr.ee/leosefcik
+- i meant ➡
+
+### me irl:
+[![My Skills](https://skillicons.dev/icons?i=blender,godot,html,py,bots)](https://skillicons.dev)
+
+
+...
+
+..?
+
+..!
+
 [![My Skills](https://skillicons.dev/icons?i=bsd,bsd,bsd,bsd,bsd,bsd,bsd,bsd,bsd)](https://skillicons.dev)
 hehe čertisko
 [![My Skills](https://skillicons.dev/icons?i=styledcomponents)](https://skillicons.dev)
