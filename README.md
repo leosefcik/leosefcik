@@ -2,7 +2,7 @@
 - 👀 I’m interested in chicken
 - 🌱 I’m currently learning ok
 - 💞️ I’m looking to collaborate on whatsapp
-- 📫 How to reach me leosefcik#3401 or serve https://discord.gg/adcZzvwKYG r
+- 📫 How to reach me leosefcik#3401 @leosefcik
 - 🕋 I do not use WhatsApp
 - 🦼 Game development and other funnies
 - 
