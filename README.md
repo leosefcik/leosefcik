@@ -15,19 +15,14 @@
   - ✅ quirky reddit game engine
   - ✅ "best game engine youve never heard of" game engine
   - ✅ metacritic top 50 game engine
-  - therefore i have to use it
-  - it makes games AND its free? count me in
+- some f00ling around in Blender
+- 
 
 ### I use
 - Fedora LINUX 🦢🦢
   - KDE Plasma edition
   - bravo linux! wow free stuff
   - uh where is Paint.NET
-  - im new to it please dont make me use the terminal for everything 😿
-- Windows 11 🥉🥉
-  - only when i need to play some sludge like Rainbow Six Siege
-  - or do something else
-  - i can't clown on it too much tho. Ive been using windows for like 95% of my life
 
 ...
 
